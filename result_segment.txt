@@ -1,0 +1,19 @@
+good
+
+Average IoU: 0.6280854858865083
+Average Dice Score: 0.9836606901655379
+
+bad 
+
+Average IoU: 0.49421307872490516
+Average Dice Score: 0.8858902405069309
+
+ugly
+
+Average IoU: 0.44278851116230566
+Average Dice Score: 0.7635838780425834
+
+total
+
+Average IoU: 0.521695691924573
+Average Dice Score: 0.8777116029050175
